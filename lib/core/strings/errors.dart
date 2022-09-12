@@ -1,1 +1,0 @@
-const NO_INTERNET_CONNECTION = 'Please Check your ....';
